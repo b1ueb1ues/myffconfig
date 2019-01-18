@@ -23,10 +23,10 @@ LockonDefaultYAngle	-0.349066
 LockonDefaultZoom	0.610000
 LockonDefaultZoom	6.000000
 CameraProductionOfAction	1
-FPSCameraInterpolationType	1
+FPSCameraInterpolationType	0
 FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
-EventCameraAutoControl	1
+EventCameraAutoControl	0
 CameraLookBlinkType	0
 IdleEmoteTime	5
 IdleEmoteRandomType	1
